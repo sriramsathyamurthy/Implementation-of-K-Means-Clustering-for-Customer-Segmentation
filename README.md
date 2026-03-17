@@ -70,7 +70,7 @@ RegisterNumber:  212225240155
 ```
 
 ## Output:
-
+![WhatsApp Image 2026-03-16 at 10 27 01 AM](https://github.com/user-attachments/assets/2d2e7f2b-56fb-4414-8549-6ea6b3c661e6)
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
